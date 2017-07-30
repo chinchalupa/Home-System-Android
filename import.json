@@ -1,0 +1,10 @@
+{
+    "devices": [
+        "46004d000151353532373238": {
+            "owner": "EKgDsXYVdlSIqr58tMjHfkrxKp33",
+            "isLocked": false,
+            "ipAddress": "192.168.1.90",
+            "port": 8888
+        }
+    ]
+}
